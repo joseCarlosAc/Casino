@@ -1,0 +1,5 @@
+package api;
+
+public enum NumCarta {
+	AS,DOS,TRES,CUATRO,CINCO,SEIS,SIETE,OCHO,NUEVE,DIEZ,JOTO,REINA,REY
+}
